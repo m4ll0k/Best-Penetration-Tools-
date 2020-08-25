@@ -282,6 +282,7 @@ ________________________________________________________________________________
 * __fakemail	1.0__	Fake mail server that captures e-mails as files for acceptance testing.	http://sourceforge.net/projects/fakemail/
 * __fakenetbios	7.b83701e__	A family of tools designed to simulate Windows hosts (NetBIOS) on a LAN.	https://github.com/mubix/FakeNetBIOS
 * __fang	1.2__	A multi service threaded MD5 cracker.	https://github.com/evilsocket/fang
+* __favinizer	1.0__	Fingerprints web applications using favicon.	https://github.com/g147/favinizer
 * __fcrackzip	1.0__	Zip file password cracker	http://oldhome.schmorp.de/marc/fcrackzip.html
 * __fern-wifi-cracker	219__	WEP, WPA wifi cracker for wireless penetration testing	http://code.google.com/p/fern-wifi-cracker/
 * __fernmelder	6.c6d4ebe__	Asynchronous mass DNS scanner.	https://github.com/stealth/fernmelder
